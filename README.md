@@ -5,7 +5,7 @@ I am a motivated, curious, and knowledgeable technology professional who loves t
 
 ### Tech stuff I know something about
 ![](https://img.shields.io/badge/SRE-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/Architecture-326CE5?style=for-the-badge&logo=architecture&logoColor=white)
+![](https://img.shields.io/badge/Architecture-326CE5?style=for-the-badge&logo=internetarchive&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Python-CC2927?style=for-the-badge&logo=python&logoColor=white)
@@ -26,5 +26,6 @@ I am a motivated, curious, and knowledgeable technology professional who loves t
 ![](https://img.shields.io/badge/Redis-CC2927?style=for-the-badge&logo=redis&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-4EA94B?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Git-121011?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Atlassian-316192?style=for-the-badge&logo=atlassian&logoColor=white)
 
 
