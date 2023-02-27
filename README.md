@@ -20,9 +20,11 @@ I am a motivated, curious, and knowledgeable technology professional who loves t
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Javascript-CC2927?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/CSS-4EA94B?style=for-the-badge&logo=css&logoColor=white)
+![](https://img.shields.io/badge/CSS-4EA94B?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/DataDog-777BB4?style=for-the-badge&logo=datadog&logoColor=white)
 ![](https://img.shields.io/badge/Prometheus-4285F4?style=for-the-badge&logo=prometheus&logoColor=white)
 ![](https://img.shields.io/badge/Redis-CC2927?style=for-the-badge&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-4EA94B?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Git-121011?style=for-the-badge&logo=git&logoColor=white)
 
 
