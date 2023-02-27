@@ -1,7 +1,7 @@
 ### Jason Camp (he/him)
 https://jason.camp/
 
-I am a motivated, curious, and knowledgeable technology professional who loves to design and build highly scalable, easy to manage infrastructure environments. I have successfully facilitated four acquisitions by Yahoo!, Google, and Gemini. I won Techcrunch Disrupt 2015 with my previous venture, Agrilyst/Artemis (now iUNU).
+I am a motivated, curious, and knowledgeable technology professional who loves to design and build highly scalable, easy to manage infrastructure environments. I have successfully facilitated four acquisitions by Yahoo!, Google (x2), and Gemini. I won Techcrunch Disrupt 2015 with my previous venture, Agrilyst/Artemis (now iUNU).
 
 ### Tech stuff I know something about
 ![](https://img.shields.io/badge/SRE-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
