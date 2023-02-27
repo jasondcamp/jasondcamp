@@ -3,7 +3,7 @@ https://jason.camp/
 
 I am a motivated, curious, and knowledgeable technology professional who loves to design and build highly scalable, easy to manage infrastructure environments. I have successfully facilitated four acquisitions by Yahoo!, Google (x2), and Gemini. I won Techcrunch Disrupt 2015 with my previous venture, Agrilyst/Artemis (now iUNU).
 
-### Tech stuff I know something about
+### Technical Summary
 ![](https://img.shields.io/badge/SRE-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/Architecture-326CE5?style=for-the-badge&logo=internetarchive&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
