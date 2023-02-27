@@ -1,16 +1,44 @@
-### Hi there 👋
+### Jason Camp (he/him)
+https://jason.camp/
 
-<!--
-**jasondcamp/jasondcamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've spent three decades building and scaling things that didn't exist yet. Platforms spanning adtech, agtech, fintech, crypto, healthcare, and more. I work across the stack, building and supporting products in Ruby, Python, Go, and more. I also build platform engineering underneath: Kubernetes migrations, IaC modernization, CI/CD overhauls, and observability buildouts. I've been part of early teams acquired by Yahoo!, Google, and Gemini, won TechCrunch Disrupt 2015, and hold two US patents in fintech.
 
-Here are some ideas to get you started:
+### Technical Summary
+![](https://img.shields.io/badge/SRE-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/Linux-316192?style=for-the-badge&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Architecture-326CE5?style=for-the-badge&logo=internetarchive&logoColor=white)
+![](https://img.shields.io/badge/AI-CC2927?style=for-the-badge)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Ruby-CC2927?style=for-the-badge&logo=ruby&logoColor=white)
+![](https://img.shields.io/badge/Anthropic-4285F4?style=for-the-badge&logo=anthropic&logoColor=white)
+![](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4285F4?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/OpenAI-121011?style=for-the-badge&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/Amazon_Web_Services-ED8B00?style=for-the-badge&logo=amazon&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/Terraform-316192?style=for-the-badge&logo=terraform&logoColor=white)
+![](https://img.shields.io/badge/Terragrunt-777BB4?style=for-the-badge&logo=terraform&logoColor=white)
+![](https://img.shields.io/badge/OpenTofu-4EA94B?style=for-the-badge&logo=opentofu&logoColor=white)
+![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/Javascript-CC2927?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/CSS-4EA94B?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/DataDog-777BB4?style=for-the-badge&logo=datadog&logoColor=white)
+![](https://img.shields.io/badge/Prometheus-4285F4?style=for-the-badge&logo=prometheus&logoColor=white)
+![](https://img.shields.io/badge/Claude-ED8B00?style=for-the-badge&logo=anthropic&logoColor=white)
+![](https://img.shields.io/badge/Redis-CC2927?style=for-the-badge&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-4EA94B?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Git-121011?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Atlassian-316192?style=for-the-badge&logo=atlassian&logoColor=white)
+![](https://img.shields.io/badge/NewRelic-777BB4?style=for-the-badge&logo=newrelic&logoColor=white)
+![](https://img.shields.io/badge/BitBucket-326CE5?style=for-the-badge&logo=bitbucket&logoColor=white)
+![](https://img.shields.io/badge/Networking-ED8B00?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/CloudFormation-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
+![](https://img.shields.io/badge/Kafka-316192?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![](https://img.shields.io/badge/Code_Mode_MCP-ED8B00?style=for-the-badge&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
