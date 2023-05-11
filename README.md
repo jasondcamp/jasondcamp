@@ -5,6 +5,7 @@ I am a motivated, curious, and knowledgeable technology professional who loves t
 
 ### Technical Summary
 ![](https://img.shields.io/badge/SRE-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/Linux-316192?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Architecture-326CE5?style=for-the-badge&logo=internetarchive&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
