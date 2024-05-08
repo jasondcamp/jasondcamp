@@ -27,5 +27,8 @@ I am a motivated, curious, and knowledgeable technology professional who loves t
 ![](https://img.shields.io/badge/Bootstrap-4EA94B?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Git-121011?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Atlassian-316192?style=for-the-badge&logo=atlassian&logoColor=white)
+![](https://img.shields.io/badge/NewRelic-777BB4?style=for-the-badge&logo=newrelic&logoColor=white)
+![](https://img.shields.io/badge/BitBucket-326CE5?style=for-the-badge&logo=bitbucket&logoColor=white)
+![](https://img.shields.io/badge/Networking-ED8B00?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
